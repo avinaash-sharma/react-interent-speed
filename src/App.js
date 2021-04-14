@@ -28,7 +28,7 @@ export default function App() {
       <h4>
         <strong>Image being Downloaded : </strong>
         <u>
-          https://res.cloudinary.com/dcwxsms2l/image/upload/v1610376487/pexels-ivan-samkov-6291574_bzqgps.jpg
+          https://images.pexels.com/photos/3396664/pexels-photo-3396664.jpeg?cs=srgb&dl=pexels-josiah-farrow-3396664.jpg&fm=jpg
         </u>
       </h4>
     </div>
